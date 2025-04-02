@@ -1,12 +1,18 @@
 ---
-title: "ICA08 & LAB01"
+title: "ICA09"
 ---
 
-- [ICA08 Serial Communications Specs](assets){target="_blank"}
+- [ICA09 Segment Display Basics Specs](assets/docs/ICA09-1242-Segs_Basics_R1_3.pdf){target="_blank"}
 
-- [Lab01 Serial Communications Specs](assets){target="_blank"}
+- [ICA09 Tier1 Screen Shot](assets/docs/Tier1-Init-Screen-Shot.jpg){target="_blank"}
 
-- [sci.h](assets){target="_blank"}
+- [ICA09 Tier1 Video](assets/docs/Tier1.mp4){target="_blank"}
+
+- [ICA09 Tier2 Video](assets/docs/Tier2.mp4){target="_blank"}
+
+- [ICA09 Tier3 Video](assets/docs/Tier3.mp4){target="_blank"}
+
+- [ICA09 main.c](assets/src/Sources/main.c){target="_blank"}
 
 
 

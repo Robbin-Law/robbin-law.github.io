@@ -1,8 +1,17 @@
 ---
-title: "SCI"
+title: "Segs"
 ---
 
-- [Serial Communications Interface](assets){target="_blank"}
+- [Segment Display Theory by Carlos](assets/docs/SevSeg_DisplayNotesByCarlos.pdf){target="_blank"}
+
+- [Segment Display Lecture Notes](assets/docs/segs_lecture_notes.pdf){target="_blank"}
+
+- [Number Theory](assets/docs/segs_number_theory.pdf){target="_blank"}
+
+- [segs.h by Robbin Law](assets/lib/segs.h){target="_blank"}
+
+- [segs.c by Robbin Law](assets/lib/segs.c){target="_blank"}
+
 
 
 

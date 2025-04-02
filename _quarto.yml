@@ -80,6 +80,12 @@ website:
           contents:
             - embedded-systems/section6/topic1/index.qmd
             - embedded-systems/section6/topic2/index.qmd
+        - section: "Segs"
+          contents:
+            - embedded-systems/section7/topic1/index.qmd
+            - embedded-systems/section7/topic2/index.qmd
+            - embedded-systems/section7/topic3/index.qmd
+            - embedded-systems/section7/topic4/index.qmd
 
 format:
   html:
