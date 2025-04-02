@@ -201,6 +201,18 @@
     "text": "This website contains a collection of resources on various subjects. This websites content has been edited by myself but much of it was originally authored by others. We stand on the shoulders of giants! I acknowledge original authors per resource. Enjoy"
   },
   {
+    "objectID": "embedded-systems/section7/topic1/index.html",
+    "href": "embedded-systems/section7/topic1/index.html",
+    "title": "Segs",
+    "section": "",
+    "text": "Segment Display Theory by Carlos\nSegment Display Lecture Notes\nNumber Theory\nsegs.h by Robbin Law\nsegs.c by Robbin Law",
+    "crumbs": [
+      "Embedded-Systems",
+      "Segs",
+      "Segs"
+    ]
+  },
+  {
     "objectID": "embedded-systems/section6/topic1/assets/resources.html",
     "href": "embedded-systems/section6/topic1/assets/resources.html",
     "title": "sscanf and sprintf",
@@ -777,18 +789,28 @@
     ]
   },
   {
-    "objectID": "embedded-systems/section7/topic1/index.html",
-    "href": "embedded-systems/section7/topic1/index.html",
-    "title": "SCI",
-    "section": "",
-    "text": "Serial Communications Interface"
-  },
-  {
     "objectID": "embedded-systems/section7/topic2/index.html",
     "href": "embedded-systems/section7/topic2/index.html",
-    "title": "ICA08 & LAB01",
+    "title": "ICA09",
     "section": "",
-    "text": "ICA08 Serial Communications Specs\nLab01 Serial Communications Specs\nsci.h"
+    "text": "ICA09 Segment Display Basics Specs\nICA09 Tier1 Screen Shot\nICA09 Tier1 Video\nICA09 Tier2 Video\nICA09 Tier3 Video\nICA09 main.c",
+    "crumbs": [
+      "Embedded-Systems",
+      "Segs",
+      "ICA09"
+    ]
+  },
+  {
+    "objectID": "embedded-systems/section7/topic3/index.html",
+    "href": "embedded-systems/section7/topic3/index.html",
+    "title": "Lab02 & Lab03",
+    "section": "",
+    "text": "Lab02 Segment Display Specs\nLab03 Segment Display Specs",
+    "crumbs": [
+      "Embedded-Systems",
+      "Segs",
+      "Lab02 & Lab03"
+    ]
   },
   {
     "objectID": "semiconductors/index.html",
