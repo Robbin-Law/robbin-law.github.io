@@ -2,9 +2,14 @@
 title: "Lab02 & Lab03"
 ---
 
-- [Lab02 Segment Display Specs](assets){target="_blank"}
+- [Lab02 Segment Display Specs](assets/docs/CMPE1250_LAB02_1241_16-BIT-FUNCTIONS.pdf){target="_blank"}
 
-- [Lab03 Segment Display Specs](assets){target="_blank"}
+- [Lab02 Video by Robbin Law](assets/docs/Lab2.mp4){target="_blank"}
+
+- [Lab03 Segment Display Specs](assets/docs/CMPE1250_LAB03_1241_DECINAL_ENTRY_CONVERSION.pdf){target="_blank"}
+
+- [Lab03 Video by Robbin Law](assets/docs/Lab3.mp4){target="_blank"}
+
 
 
 
