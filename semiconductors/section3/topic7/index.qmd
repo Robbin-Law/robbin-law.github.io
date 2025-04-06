@@ -1,0 +1,12 @@
+---
+title: "Comparators & ADCs"
+---
+
+- [Comparators Lesson Solutions Excel Spread Sheet](assets/b-Comparators.xlsx){download=""}
+
+- [Data Regeneration Lesson Solutions Excel Spread Sheet](assets/cce-DataRegeneration.xlsx){download=""}
+
+- [Comparators and Applications Combined by Ross Taylor](assets/a-Lesson-Comparators-combined.pdf){target="_blank"}
+
+
+
