@@ -1,0 +1,18 @@
+---
+title: "ICA10"
+---
+
+- [ICA10 LCD Display Basics Specs](assets/docs/CMPE1250_ICA10_1242_LCD_RLaw.pdf){target="_blank"}
+
+<!-- - [ICA10 Tier1 Screen Shot](assets){target="_blank"}
+
+- [ICA10 Tier2 Screen Shot](assets){target="_blank"}
+
+- [ICA10 Tier1 Video](assets){target="_blank"}
+
+- [ICA10 Tier2 Video](assets){target="_blank"} -->
+
+- [ICA10 main.c](assets/src/Sources/main.c){target="_blank"}
+
+
+

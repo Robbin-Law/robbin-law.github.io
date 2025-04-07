@@ -1,0 +1,23 @@
+---
+title: "LCD"
+---
+
+- [LCD Display Theory by Carlos](assets/docs/LCD_Notes.pdf){target="_blank"}
+
+- [LCD Display Discussion by Simon](assets/docs/1202_LCD_Discussion.pdf){target="_blank"}
+
+- [LCD sprintf Notes](assets/docs/CMPE1250_strings_pointers_sprintf_lcd.pdf){target="_blank"}
+
+- [LCD Custom Characters by Simon](assets/docs/1202_LCD_CustomCharacters.pdf){target="_blank"}
+
+- [lcd.h by Robbin Law](assets/lib/lcd.h){target="_blank"}
+
+- [lcd_custom_characters.h by Robbin Law](assets/lib/lcd_custom_characters.h){target="_blank"}
+
+- [lcd.c by Robbin Law](assets/lib/lcd.c){target="_blank"}
+
+
+
+
+
+

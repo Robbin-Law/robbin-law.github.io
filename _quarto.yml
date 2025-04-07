@@ -86,6 +86,11 @@ website:
             - embedded-systems/section7/topic1/index.qmd
             - embedded-systems/section7/topic2/index.qmd
             - embedded-systems/section7/topic3/index.qmd
+        - section: "LCD"
+          contents:
+            - embedded-systems/section8/topic1/index.qmd
+            - embedded-systems/section8/topic2/index.qmd
+            - embedded-systems/section8/topic3/index.qmd
 
 format:
   html:
