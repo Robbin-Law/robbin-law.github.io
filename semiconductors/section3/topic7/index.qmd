@@ -8,5 +8,7 @@ title: "Comparators & ADCs"
 
 - [Comparators and Applications Combined by Ross Taylor](assets/a-Lesson-Comparators-combined.pdf){target="_blank"}
 
+- [Lab8 AtoD Direct Conversion MULTISIM](assets/sc-Lab8-AtoDDirectConversion.ms14){download=""}
+
 
 
