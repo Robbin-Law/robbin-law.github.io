@@ -2,13 +2,13 @@
 title: "Lab04 & Lab05"
 ---
 
-<!-- - [Lab04 LCD Display Specs](assets){target="_blank"}
+- [Lab04 LCD Display Specs](assets/docs/CMPE1250_LAB04_1241_SECONDARY_LCD_FUNCTIONS.pdf){target="_blank"}
 
-- [Lab04 Video by Robbin Law](assets){target="_blank"}
+- [Lab04 Video by Robbin Law](assets/docs/Lab04_demo.mp4){target="_blank"}
 
-- [Lab05 LCD Display Specs](assets){target="_blank"}
+- [Lab05 LCD Display Specs](assets/docs/CMPE1250_LAB05_1241_DYNAMIC_LCD_OUTPUT.pdf){target="_blank"}
 
-- [Lab05 Video by Robbin Law](assets){target="_blank"} -->
+- [Lab05 Video by Robbin Law](assets/docs/Lab05_demo.mp4){target="_blank"}
 
 
 
